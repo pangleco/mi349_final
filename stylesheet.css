@@ -1,0 +1,46 @@
+﻿.title {
+    font-family: "Times New Roman";
+    color: black;
+    font-size: 75px;
+    text-align: center;
+}
+
+.sub {
+    font-family: "Times New Roman";
+    color: darkblue;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.profile img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.header {
+    max-width: 100%;
+
+    padding: 5px;
+    background: lightgrey;
+}
+
+.content .Nav {
+    font-size: 20px;
+    position: sticky;
+    top: 10px;
+}
+
+.resume{
+    font-size: 35px;
+    text-align: center;
+    margin-top: -130px;
+}
+
+
+.resume img {
+    width: 1000px;
+}
